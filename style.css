@@ -1,0 +1,64 @@
+*
+{
+    font-family:'Unbounded'
+}
+.container
+{
+    display:flex;
+    justify-content: center;
+    margin-top:170px;
+}
+#box
+{
+    width:320px;
+    height:380px;
+    /* background-color: rgb(178, 204, 209); */
+    background-image: url('26586.jpg');
+    background-size: cover;    
+    display:flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    border-radius: 6px;
+}
+#boxel2
+{
+    padding-bottom:50px;
+}
+
+#boxel2 input
+{
+    border:none;
+    height:25px;
+    border-radius: 0px;
+}
+
+
+#boxel1
+{
+    padding-bottom: 20px;
+}
+
+#boxel1 input
+{
+    border:none;
+    border-radius: 2px;
+    height:20px;
+}
+
+#temp
+{
+    padding-bottom:20px;
+}
+#temp h1{
+    font-size:56px;
+}
+
+#ctname
+{
+    padding-bottom:20px;
+}
+
+#heads h1{
+    font-size: 24px;
+    padding-bottom:85px;
+}
